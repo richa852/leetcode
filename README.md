@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/richa852/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0409-longest-palindrome](https://github.com/richa852/leetcode/tree/master/0409-longest-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/richa852/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/richa852/leetcode/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/richa852/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
