@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/richa852/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/richa852/leetcode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/richa852/leetcode/tree/master/0547-number-of-provinces) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/richa852/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/richa852/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
