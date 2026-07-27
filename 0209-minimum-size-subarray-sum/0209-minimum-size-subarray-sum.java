@@ -13,9 +13,9 @@ class Solution {
         }
        if (length == Integer.MAX_VALUE) {
     return 0;
-} else {
+} 
     return length;
-}
+
 
     }
 }
