@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/richa852/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/richa852/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/richa852/leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/richa852/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/richa852/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richa852/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/richa852/leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/richa852/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richa852/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/richa852/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/richa852/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/richa852/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
