@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/richa852/leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/richa852/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/richa852/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/richa852/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/richa852/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/richa852/leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/richa852/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/richa852/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/richa852/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
