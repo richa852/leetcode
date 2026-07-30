@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/richa852/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/richa852/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/richa852/leetcode/tree/master/0342-power-of-four) |
+| [0504-base-7](https://github.com/richa852/leetcode/tree/master/0504-base-7) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/richa852/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/richa852/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/richa852/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/richa852/leetcode/tree/master/0504-base-7) |
 ## Greedy
 |  |
 | ------- |
