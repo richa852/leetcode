@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/richa852/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/richa852/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/richa852/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0665-non-decreasing-array](https://github.com/richa852/leetcode/tree/master/0665-non-decreasing-array) |
 | [0904-fruit-into-baskets](https://github.com/richa852/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/richa852/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/richa852/leetcode/tree/master/0977-squares-of-a-sorted-array) |
