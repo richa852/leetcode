@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/richa852/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/richa852/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/richa852/leetcode/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/richa852/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richa852/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/richa852/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0409-longest-palindrome](https://github.com/richa852/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/richa852/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/richa852/leetcode/tree/master/0504-base-7) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/richa852/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/richa852/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/richa852/leetcode/tree/master/0198-house-robber) |
 ## Memoization
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/richa852/leetcode/tree/master/1051-height-checker) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/richa852/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
