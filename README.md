@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/richa852/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/richa852/leetcode/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/richa852/leetcode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/richa852/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/richa852/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/richa852/leetcode/tree/master/0198-house-robber) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/richa852/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/richa852/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/richa852/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/richa852/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/richa852/leetcode/tree/master/0198-house-robber) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/richa852/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/richa852/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
